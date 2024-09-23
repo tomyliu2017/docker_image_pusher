@@ -1,3 +1,2 @@
-sickcodes/docker-osx:monterey
 nginx
 
