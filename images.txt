@@ -1,3 +1,6 @@
-gitlab/gitlab-ce
-gitlab/gitlab-runner
+#gitlab/gitlab-ce
+#gitlab/gitlab-runner
+gcr.io/tekton-releases/github.com/tektoncd/operator/cmd/kubernetes/webhook:v0.73.1
+gcr.io/tekton-releases/github.com/tektoncd/operator/cmd/kubernetes/operator:v0.73.1
+
 
