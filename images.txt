@@ -12,9 +12,6 @@
 #gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/interceptors:v0.29.1
 
 #ghcr.io/tektoncd/dashboard/dashboard-9623576a202fe86c8b7d1bc489905f86:v0.52.0
-
-
-
 quay.io/argoproj/argocd:v2.12.
 ghcr.io/dexidp/dex:v2.38.0
 redis:7.0.15-alpine
