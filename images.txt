@@ -2,17 +2,22 @@
 #gitlab/gitlab-runner
 #gcr.io/tekton-releases/github.com/tektoncd/operator/cmd/kubernetes/webhook:v0.73.1
 #gcr.io/tekton-releases/github.com/tektoncd/operator/cmd/kubernetes/operator:v0.73.1
-ghcr.io/tektoncd/pipeline/controller-10a3e32792f33651396d02b6855a6e36:v0.65.0
-ghcr.io/tektoncd/pipeline/events-a9042f7efb0cbade2a868a1ee5ddd52c:v0.65.0
-ghcr.io/tektoncd/pipeline/resolvers-ff86b24f130c42b88983d3c13993056d:v0.65.0
-ghcr.io/tektoncd/pipeline/webhook-d4749e605405422fd87700164e31b2d1:v0.65.0
+#ghcr.io/tektoncd/pipeline/controller-10a3e32792f33651396d02b6855a6e36:v0.65.0
+#ghcr.io/tektoncd/pipeline/events-a9042f7efb0cbade2a868a1ee5ddd52c:v0.65.0
+#ghcr.io/tektoncd/pipeline/resolvers-ff86b24f130c42b88983d3c13993056d:v0.65.0
+#ghcr.io/tektoncd/pipeline/webhook-d4749e605405422fd87700164e31b2d1:v0.65.0
 
-gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/controller:v0.29.1
-gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/webhook:v0.29.1
-gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/interceptors:v0.29.1
+#gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/controller:v0.29.1
+#gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/webhook:v0.29.1
+#gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/interceptors:v0.29.1
 
-ghcr.io/tektoncd/dashboard/dashboard-9623576a202fe86c8b7d1bc489905f86:v0.52.0
+#ghcr.io/tektoncd/dashboard/dashboard-9623576a202fe86c8b7d1bc489905f86:v0.52.0
 
+
+
+quay.io/argoproj/argocd:v2.12.
+ghcr.io/dexidp/dex:v2.38.0
+redis:7.0.15-alpine
 
 
 
